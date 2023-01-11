@@ -1,5 +1,5 @@
 {
-  "name": "dark-tunnel-base-template.git",
+  "name": "dark-tunnel-base-template",
   "version": "1.0.0",
   "description": "dark-tunnel的应用模板，用于快速生成react应用",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qzruncode/dark-tunnel-base-template.git.git"
+    "url": "git+https://github.com/qzruncode/dark-tunnel-base-template.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
